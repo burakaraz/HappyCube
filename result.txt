@@ -1,1 +1,3312 @@
-It is not a cube
+Solution: 0
+
+ o oo  o  o o o
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+  o    o  o o o
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo o 
+      oooo
+     oooo 
+      oooo
+      o o 
+-----------------------
+Solution: 1
+
+  o    o  o o o
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ o oo  o  o o o
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+     o o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+-----------------------
+Solution: 2
+
+  o    o  o o o
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+oo o   o  o o o
+     oo o 
+      oooo
+     oooo 
+      oooo
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+     o o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+-----------------------
+Solution: 3
+
+o o    o  o o o
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+oo o   o  o o o
+     oo o 
+      oooo
+     oooo 
+      oooo
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+       o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+-----------------------
+Solution: 4
+
+oo o   o  o o o
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+  o    o  o o o
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo o 
+-----------------------
+Solution: 5
+
+oo o   o  o o o
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+o o    o  o o o
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+       o  
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo o 
+-----------------------
+Solution: 6
+
+ o o   o   o o 
+ooooo ooo oooo 
+ ooo ooooo oooo
+ooooo ooo oooo 
+  o o  o  oo o 
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo oo
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+-----------------------
+Solution: 7
+
+o o o  o  oo o 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+o o o  o    o  
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o o
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+-----------------------
+Solution: 8
+
+o o o  o    o  
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+o o o  o   o oo
+      o oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o oo
+-----------------------
+Solution: 9
+
+ o o   o   o o 
+ oooo ooo ooooo
+oooo ooooo ooo 
+ oooo ooo ooooo
+oo oo  o  o o  
+      o o 
+      oooo
+     oooo 
+      oooo
+      o oo
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+-----------------------
+Solution: 10
+
+ o o   o   o o 
+ oooo ooo ooooo
+oooo ooooo ooo 
+ oooo ooo ooooo
+ o oo  o  o o  
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo oo
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+-----------------------
+Solution: 11
+
+oo oo  o    o o
+ oooo ooo ooooo
+oooo ooooo ooo 
+ oooo ooo ooooo
+ o o   o   o o 
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+      o o 
+      oooo
+     oooo 
+      oooo
+      o oo
+-----------------------
+Solution: 12
+
+o o    o  oo oo
+ooooo ooo oooo 
+ ooo ooooo oooo
+ooooo ooo oooo 
+ o o   o   o o 
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo o 
+-----------------------
+Solution: 13
+
+  o o  o  oo oo
+ooooo ooo oooo 
+ ooo ooooo oooo
+ooooo ooo oooo 
+ o o   o   o o 
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+     oo o 
+     oooo 
+      oooo
+     oooo 
+      o o 
+-----------------------
+Solution: 14
+
+o o o  o   o oo
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+o o o  o    o o
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o  
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+     oooo 
+      oooo
+     oooo 
+      o oo
+-----------------------
+Solution: 15
+
+o o o  o   o oo
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+o o o  o    o  
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o o
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+     oooo 
+      oooo
+     oooo 
+      o oo
+-----------------------
+Solution: 16
+
+  o o  o  oo o 
+ooooo ooo oooo 
+ ooo ooooo oooo
+ooooo ooo oooo 
+ o o   o   o o 
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+     oo oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+-----------------------
+Solution: 17
+
+o o o  o    o  
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+o o o  o  oo o 
+      o o 
+     oooo 
+      oooo
+     oooo 
+      o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o oo
+-----------------------
+Solution: 18
+
+ o o   o   o o 
+ oooo ooo ooooo
+oooo ooooo ooo 
+ oooo ooo ooooo
+oo oo  o    o o
+      o oo
+      oooo
+     oooo 
+      oooo
+      o o 
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+-----------------------
+Solution: 19
+
+oo oo  o  o o  
+ oooo ooo ooooo
+oooo ooooo ooo 
+ oooo ooo ooooo
+ o o   o   o o 
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+      o oo
+      oooo
+     oooo 
+      oooo
+      o o 
+-----------------------
+Solution: 20
+
+ o oo  o  o o  
+ oooo ooo ooooo
+oooo ooooo ooo 
+ oooo ooo ooooo
+ o o   o   o o 
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+     oo oo
+      oooo
+     oooo 
+      oooo
+      o o 
+-----------------------
+Solution: 21
+
+ o o   o   o o 
+ooooo ooo oooo 
+ ooo ooooo oooo
+ooooo ooo oooo 
+o o    o  oo oo
+     oo o 
+     oooo 
+      oooo
+     oooo 
+      o o 
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+-----------------------
+Solution: 22
+
+ o o   o   o o 
+ooooo ooo oooo 
+ ooo ooooo oooo
+ooooo ooo oooo 
+  o o  o  oo oo
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo o 
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+-----------------------
+Solution: 23
+
+o o o  o    o o
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+o o o  o   o oo
+      o oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+       o  
+     ooooo
+      ooo 
+     ooooo
+      o oo
+-----------------------
+Solution: 24
+
+ o o o o o  o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o  o o o  o  
+      o o 
+     ooooo
+      ooo 
+     ooooo
+       o o
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+      o oo
+      oooo
+     oooo 
+      oooo
+      o o 
+-----------------------
+Solution: 25
+
+  o  o o o  o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ o o o o o  o  
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo oo
+       o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o o 
+-----------------------
+Solution: 26
+
+  o  o o o  o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ o o o o o  o  
+      o o 
+      oooo
+     oooo 
+      oooo
+      o oo
+     o o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o o 
+-----------------------
+Solution: 27
+
+  o  o o o  o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ o o o o o  o  
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo oo
+       o  
+     ooooo
+      ooo 
+     ooooo
+      o oo
+     o o  
+     ooooo
+      ooo 
+     ooooo
+      o o 
+-----------------------
+Solution: 28
+
+ o o o o o  o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o  o o o  o  
+      o o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o  
+     oo oo
+      oooo
+     oooo 
+      oooo
+      o o 
+-----------------------
+Solution: 29
+
+ o o o o o  o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o  o o o  o  
+      o o 
+     ooooo
+      ooo 
+     ooooo
+       o o
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+       o  
+     oo oo
+      oooo
+     oooo 
+      oooo
+      o o 
+-----------------------
+Solution: 30
+
+  o  o o o  o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o  o o o o o 
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo oo
+       o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o o 
+-----------------------
+Solution: 31
+
+  o  o o o  o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o  o o o o o 
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo o 
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o oo
+     o o  
+     ooooo
+      ooo 
+     ooooo
+      o o 
+-----------------------
+Solution: 32
+
+  o  o o o  o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o  o o o o o 
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo oo
+       o  
+     ooooo
+      ooo 
+     ooooo
+      o oo
+     o o  
+     ooooo
+      ooo 
+     ooooo
+      o o 
+-----------------------
+Solution: 33
+
+  o  o o o o o 
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o  o o o  o  
+      o o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o  
+     oo oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+-----------------------
+Solution: 34
+
+  o  o o o o o 
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o  o o o  o  
+      o o 
+     ooooo
+      ooo 
+     ooooo
+       o o
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+       o  
+     oo oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+-----------------------
+Solution: 35
+
+  o  o o o o o 
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o  o o o  o  
+      o o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o o
+     oo o 
+     oooo 
+      oooo
+     oooo 
+      o o 
+-----------------------
+Solution: 36
+
+ o o oo oo  o  
+ oooo ooo ooooo
+oooo ooooo ooo 
+ oooo ooo ooooo
+oo o oo oo o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo oo
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+-----------------------
+Solution: 37
+
+oo o oo oo o o 
+ooooo ooo oooo 
+ ooo ooooo oooo
+ooooo ooo oooo 
+o o  oo oo o oo
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+      o o 
+      oooo
+     oooo 
+      oooo
+      o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 38
+
+o o  oo oo o o 
+ooooo ooo oooo 
+ ooo ooooo oooo
+ooooo ooo oooo 
+oo o oo oo o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+      oooo
+     oooo 
+      oooo
+      o oo
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+-----------------------
+Solution: 39
+
+  o  oo oo o o 
+ooooo ooo oooo 
+ ooo ooooo oooo
+ooooo ooo oooo 
+oo o oo oo o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo oo
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+-----------------------
+Solution: 40
+
+oo o oo oo o oo
+ oooo ooo ooooo
+oooo ooooo ooo 
+ oooo ooo ooooo
+ o o oo oo  o o
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+     oo o 
+     oooo 
+      oooo
+     oooo 
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 41
+
+ o o oo oo o oo
+ oooo ooo ooooo
+oooo ooooo ooo 
+ oooo ooo ooooo
+oo o oo oo  o o
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 42
+
+oo o oo oo o oo
+ oooo ooo ooooo
+oooo ooooo ooo 
+ oooo ooo ooooo
+ o o oo oo  o  
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+     oo oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 43
+
+oo o oo oo o oo
+ooooo ooo oooo 
+ ooo ooooo oooo
+ooooo ooo oooo 
+  o  oo oo o o 
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+     oo oo
+      oooo
+     oooo 
+      oooo
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 44
+
+oo o oo oo o oo
+ooooo ooo oooo 
+ ooo ooooo oooo
+ooooo ooo oooo 
+o o  oo oo o o 
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+      o oo
+      oooo
+     oooo 
+      oooo
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 45
+
+o o  oo oo o oo
+ooooo ooo oooo 
+ ooo ooooo oooo
+ooooo ooo oooo 
+oo o oo oo o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o oo
+      oooo
+     oooo 
+      oooo
+      o o 
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+-----------------------
+Solution: 46
+
+oo o oo oo  o o
+ oooo ooo ooooo
+oooo ooooo ooo 
+ oooo ooo ooooo
+ o o oo oo o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo o 
+     oooo 
+      oooo
+     oooo 
+      o o 
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+-----------------------
+Solution: 47
+
+ o o oo oo  o o
+ oooo ooo ooooo
+oooo ooooo ooo 
+ oooo ooo ooooo
+oo o oo oo o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo o 
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+-----------------------
+Solution: 48
+
+o o    o   o oo
+ooooo oooo oooo
+ ooo oooo oooo 
+ooooo oooo oooo
+ o o   o   o o 
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo oo
+-----------------------
+Solution: 49
+
+ o o   o   o o 
+ooooo oooo oooo
+ ooo oooo oooo 
+ooooo oooo oooo
+o o    o  oo oo
+     oo o 
+     oooo 
+      oooo
+     oooo 
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+-----------------------
+Solution: 50
+
+ o o   o   o o 
+ooooo oooo oooo
+ ooo oooo oooo 
+ooooo oooo oooo
+  o o  o  oo oo
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+-----------------------
+Solution: 51
+
+ o o   o   o o 
+ooooo oooo oooo
+ ooo oooo oooo 
+ooooo oooo oooo
+o o    o   o oo
+     oo oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+-----------------------
+Solution: 52
+
+o o    o  oo oo
+ooooo oooo oooo
+ ooo oooo oooo 
+ooooo oooo oooo
+ o o   o   o o 
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo o 
+-----------------------
+Solution: 53
+
+  o o  o  oo oo
+ooooo oooo oooo
+ ooo oooo oooo 
+ooooo oooo oooo
+ o o   o   o o 
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo o 
+     oooo 
+      oooo
+     oooo 
+      o o 
+-----------------------
+Solution: 54
+
+ o oo  o  o o o
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+  o o o o o o o
+       o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo o 
+      oooo
+     oooo 
+      oooo
+      o o 
+-----------------------
+Solution: 55
+
+ o oo  o  o o o
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+  o   o o o o o
+     o o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo o 
+      oooo
+     oooo 
+      oooo
+      o o 
+-----------------------
+Solution: 56
+
+oo o   o  o o o
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+  o   o o o o o
+     o o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo o 
+-----------------------
+Solution: 57
+
+o o o  o  oo o 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+o o o o o   o  
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+-----------------------
+Solution: 58
+
+o o o  o   o oo
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+o o o o o   o  
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+     oooo 
+      oooo
+     oooo 
+      o oo
+-----------------------
+Solution: 59
+
+o o o  o  oo o 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+o o o o o o o  
+       o  
+     ooooo
+      ooo 
+     ooooo
+      o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+-----------------------
+Solution: 60
+
+ o o   o   o o 
+oooo oooo ooooo
+ oooo oooo ooo 
+oooo oooo ooooo
+oo oo  o  o o  
+      o o 
+      oooo
+     oooo 
+      oooo
+      o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+-----------------------
+Solution: 61
+
+oo o   o    o o
+oooo oooo ooooo
+ oooo oooo ooo 
+oooo oooo ooooo
+ o o   o   o o 
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo oo
+-----------------------
+Solution: 62
+
+oo oo  o    o o
+oooo oooo ooooo
+ oooo oooo ooo 
+oooo oooo ooooo
+ o o   o   o o 
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+      oooo
+     oooo 
+      oooo
+      o oo
+-----------------------
+Solution: 63
+
+ o o   o   o o 
+oooo oooo ooooo
+ oooo oooo ooo 
+oooo oooo ooooo
+oo o   o    o o
+     oo oo
+      oooo
+     oooo 
+      oooo
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+-----------------------
+Solution: 64
+
+ o o   o   o o 
+oooo oooo ooooo
+ oooo oooo ooo 
+oooo oooo ooooo
+oo oo  o    o o
+      o oo
+      oooo
+     oooo 
+      oooo
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+-----------------------
+Solution: 65
+
+oo oo  o  o o  
+oooo oooo ooooo
+ oooo oooo ooo 
+oooo oooo ooooo
+ o o   o   o o 
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o oo
+      oooo
+     oooo 
+      oooo
+      o o 
+-----------------------
+Solution: 66
+
+  o o o o o o o
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ o oo  o  o o o
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+       o  
+-----------------------
+Solution: 67
+
+  o   o o o o o
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ o oo  o  o o o
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+-----------------------
+Solution: 68
+
+  o   o o o o o
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+oo o   o  o o o
+     oo o 
+      oooo
+     oooo 
+      oooo
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+-----------------------
+Solution: 69
+
+o o o o o   o  
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+o o o  o   o oo
+      o oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o o
+-----------------------
+Solution: 70
+
+o o o o o o o  
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+o o o  o  oo o 
+      o o 
+     oooo 
+      oooo
+     oooo 
+      o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o  
+-----------------------
+Solution: 71
+
+o o o o o   o  
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ooooo ooo ooooo
+o o o  o  oo o 
+      o o 
+     oooo 
+      oooo
+     oooo 
+      o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o o
+-----------------------
+Solution: 72
+
+  o   o o   o  
+ ooo oooo oooo 
+ooooo oooo oooo
+ ooo oooo oooo 
+  o  oo o   o  
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o oo
+     o o  
+     ooooo
+      ooo 
+     ooooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+-----------------------
+Solution: 73
+
+ o oo o o o o  
+oooo oooo ooooo
+ oooo oooo ooo 
+oooo oooo ooooo
+ o o oo o oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+-----------------------
+Solution: 74
+
+ o oo o o oo o 
+oooo oooo ooooo
+ oooo oooo ooo 
+oooo oooo ooooo
+ o o oo o o o  
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 75
+
+  o  oo o   o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ o o   o    o  
+     oo oo
+      oooo
+     oooo 
+      oooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     ooooo
+      ooo 
+     ooooo
+       o o
+-----------------------
+Solution: 76
+
+ o o oo o oo oo
+oooo ooooo ooo 
+ oooo ooo ooooo
+oooo ooooo ooo 
+oo oo  o  oo oo
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 77
+
+  o  oo o   o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o    o   o o 
+     oo oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     ooooo
+      ooo 
+     ooooo
+       o o
+-----------------------
+Solution: 78
+
+  o   o oo  o  
+ oooo oooo ooo 
+oooo oooo ooooo
+ oooo oooo ooo 
+  o   o o   o  
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     ooooo
+      ooo 
+     ooooo
+       o o
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+-----------------------
+Solution: 79
+
+ o oo o oo o o 
+ooooo oooo oooo
+ ooo oooo oooo 
+ooooo oooo oooo
+  o o o o oo o 
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 80
+
+  o o o oo o o 
+ooooo oooo oooo
+ ooo oooo oooo 
+ooooo oooo oooo
+ o oo o o oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+-----------------------
+Solution: 81
+
+ o o   o    o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o   o oo  o  
+     o o  
+     ooooo
+      ooo 
+     ooooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo oo
+-----------------------
+Solution: 82
+
+  o    o   o o 
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o   o oo  o  
+     o o  
+     ooooo
+      ooo 
+     ooooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo oo
+-----------------------
+Solution: 83
+
+oo oo  o  oo oo
+ ooo ooooo oooo
+ooooo ooo oooo 
+ ooo ooooo oooo
+oo oo o oo o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+-----------------------
+Solution: 84
+
+  o   o o   o  
+oooo ooooo ooo 
+ oooo ooo ooooo
+oooo ooooo ooo 
+  o  o o    o  
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o  
+     oo oo
+      oooo
+     oooo 
+      oooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+-----------------------
+Solution: 85
+
+  o   o o   o  
+ ooo ooooo oooo
+ooooo ooo oooo 
+ ooo ooooo oooo
+  o  o o    o  
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o o
+     oo o 
+     oooo 
+      oooo
+     oooo 
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+-----------------------
+Solution: 86
+
+  o   o o   o  
+ ooo ooooo oooo
+ooooo ooo oooo 
+ ooo ooooo oooo
+  o  o o    o  
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o  
+     oo oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+-----------------------
+Solution: 87
+
+ o o oo o oo oo
+ oooo oooo ooo 
+oooo oooo ooooo
+ oooo oooo ooo 
+oo oo o o oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+       o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 88
+
+ o o oo o oo oo
+ oooo oooo ooo 
+oooo oooo ooooo
+ oooo oooo ooo 
+ o oo o o oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+     o o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 89
+
+ o o oo o oo oo
+ oooo oooo ooo 
+oooo oooo ooooo
+ oooo oooo ooo 
+ o oo o o oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 90
+
+  o    o o  o  
+oooo ooooo ooo 
+ oooo ooo ooooo
+oooo ooooo ooo 
+  o   o o   o  
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+      oooo
+     oooo 
+      oooo
+      o oo
+     o o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+-----------------------
+Solution: 91
+
+  o    o o  o  
+oooo ooooo ooo 
+ oooo ooo ooooo
+oooo ooooo ooo 
+  o   o o   o  
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo oo
+       o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+-----------------------
+Solution: 92
+
+  o    o o  o  
+ ooo ooooo oooo
+ooooo ooo oooo 
+ ooo ooooo oooo
+  o   o o   o  
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo oo
+       o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+-----------------------
+Solution: 93
+
+oo oo o o oo oo
+ ooo oooo oooo 
+ooooo oooo oooo
+ ooo oooo oooo 
+oo oo o oo o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o  
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 94
+
+oo oo o o oo o 
+ ooo oooo oooo 
+ooooo oooo oooo
+ ooo oooo oooo 
+oo oo o oo o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 95
+
+oo oo o o oo o 
+ ooo oooo oooo 
+ooooo oooo oooo
+ ooo oooo oooo 
+oo oo o oo o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o o
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 96
+
+  o   o o   o  
+ oooo oooo ooo 
+oooo oooo ooooo
+ oooo oooo ooo 
+  o  oo oo  o  
+       o  
+     ooooo
+      ooo 
+     ooooo
+      o oo
+     o o  
+     ooooo
+      ooo 
+     ooooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+-----------------------
+Solution: 97
+
+  o   o o   o  
+ oooo oooo ooo 
+oooo oooo ooooo
+ oooo oooo ooo 
+  o  oo oo  o  
+       o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+-----------------------
+Solution: 98
+
+ o oo o o oo o 
+ooooo oooo oooo
+ ooo oooo oooo 
+ooooo oooo oooo
+  o  oo oo o o 
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 99
+
+ o o o o    o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o  oo o   o  
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+      oooo
+     oooo 
+      oooo
+      o oo
+-----------------------
+Solution: 100
+
+ o o o o  oo oo
+oooo ooooo ooo 
+ oooo ooo ooooo
+oooo ooooo ooo 
+oo o oo o oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+-----------------------
+Solution: 101
+
+oo o o o  oo oo
+oooo ooooo ooo 
+ oooo ooo ooooo
+oooo ooooo ooo 
+ o o oo o oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo o 
+      oooo
+     oooo 
+      oooo
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+-----------------------
+Solution: 102
+
+  o  oo oo  o  
+ ooo oooo oooo 
+ooooo oooo oooo
+ ooo oooo oooo 
+  o   o o   o  
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     ooooo
+      ooo 
+     ooooo
+       o o
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+       o  
+-----------------------
+Solution: 103
+
+  o  oo oo  o  
+ ooo oooo oooo 
+ooooo oooo oooo
+ ooo oooo oooo 
+  o   o o   o  
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o  
+-----------------------
+Solution: 104
+
+ o o oo oo  o  
+oooo oooo ooooo
+ oooo oooo ooo 
+oooo oooo ooooo
+ o oo o o oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+-----------------------
+Solution: 105
+
+  o   o oo  o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o    o o o o 
+     oo o 
+     oooo 
+      oooo
+     oooo 
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+-----------------------
+Solution: 106
+
+oo oo o oo o oo
+ ooo ooooo oooo
+ooooo ooo oooo 
+ ooo ooooo oooo
+oo oo  o o o o 
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 107
+
+oo oo o oo o o 
+ ooo ooooo oooo
+ooooo ooo oooo 
+ ooo ooooo oooo
+oo oo  o o o oo
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+     oooo 
+      oooo
+     oooo 
+      o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 108
+
+  o   o o   o  
+ oooo oooo ooo 
+oooo oooo ooooo
+ oooo oooo ooo 
+  o   o oo  o  
+     o o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+-----------------------
+Solution: 109
+
+ o oo o o oo o 
+ooooo oooo oooo
+ ooo oooo oooo 
+ooooo oooo oooo
+  o o o oo o o 
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 110
+
+  o o o o oo o 
+ooooo oooo oooo
+ ooo oooo oooo 
+ooooo oooo oooo
+ o oo o oo o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+-----------------------
+Solution: 111
+
+  o   o oo  o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ o o   o    o  
+     oo oo
+      oooo
+     oooo 
+      oooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+-----------------------
+Solution: 112
+
+  o   o oo  o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o    o   o o 
+     oo oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+-----------------------
+Solution: 113
+
+oo oo o oo o o 
+ ooo ooooo oooo
+ooooo ooo oooo 
+ ooo ooooo oooo
+oo oo  o  oo oo
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+     oooo 
+      oooo
+     oooo 
+      o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 114
+
+  o  oo o   o  
+ ooo oooo oooo 
+ooooo oooo oooo
+ ooo oooo oooo 
+  o   o o   o  
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o o
+-----------------------
+Solution: 115
+
+ o o oo o o o  
+oooo oooo ooooo
+ oooo oooo ooo 
+oooo oooo ooooo
+ o oo o o oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+-----------------------
+Solution: 116
+
+ o o oo o oo o 
+oooo oooo ooooo
+ oooo oooo ooo 
+oooo oooo ooooo
+ o oo o o o o  
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 117
+
+ o o   o    o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o  oo o   o  
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo oo
+-----------------------
+Solution: 118
+
+oo oo  o  oo oo
+oooo ooooo ooo 
+ oooo ooo ooooo
+oooo ooooo ooo 
+ o o oo o oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo o 
+      oooo
+     oooo 
+      oooo
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+-----------------------
+Solution: 119
+
+  o    o   o o 
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o  oo o   o  
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo oo
+-----------------------
+Solution: 120
+
+  o   o o   o  
+oooo ooooo ooo 
+ oooo ooo ooooo
+oooo ooooo ooo 
+  o    o o  o  
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+       o  
+     oo oo
+      oooo
+     oooo 
+      oooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+-----------------------
+Solution: 121
+
+  o   o o   o  
+oooo ooooo ooo 
+ oooo ooo ooooo
+oooo ooooo ooo 
+  o    o o  o  
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+      o oo
+      oooo
+     oooo 
+      oooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+-----------------------
+Solution: 122
+
+  o   o o   o  
+ ooo ooooo oooo
+ooooo ooo oooo 
+ ooo ooooo oooo
+  o    o o  o  
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+       o  
+     oo oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+-----------------------
+Solution: 123
+
+oo oo o oo o o 
+ ooo oooo oooo 
+ooooo oooo oooo
+ ooo oooo oooo 
+oo oo o o oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 124
+
+oo oo o oo o o 
+ ooo oooo oooo 
+ooooo oooo oooo
+ ooo oooo oooo 
+oo oo o o oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o o
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 125
+
+oo oo o oo o o 
+ ooo oooo oooo 
+ooooo oooo oooo
+ ooo oooo oooo 
+oo oo o o oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+       o  
+     ooooo
+      ooo 
+     ooooo
+      o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 126
+
+  o  o o    o  
+oooo ooooo ooo 
+ oooo ooo ooooo
+oooo ooooo ooo 
+  o   o o   o  
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo oo
+       o  
+     ooooo
+      ooo 
+     ooooo
+      o oo
+-----------------------
+Solution: 127
+
+  o  o o    o  
+ ooo ooooo oooo
+ooooo ooo oooo 
+ ooo ooooo oooo
+  o   o o   o  
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo oo
+       o  
+     ooooo
+      ooo 
+     ooooo
+      o oo
+-----------------------
+Solution: 128
+
+  o  o o    o  
+ ooo ooooo oooo
+ooooo ooo oooo 
+ ooo ooooo oooo
+  o   o o   o  
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo o 
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o oo
+-----------------------
+Solution: 129
+
+ o oo o o oo oo
+ oooo oooo ooo 
+oooo oooo ooooo
+ oooo oooo ooo 
+ o o oo o oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+     o o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 130
+
+ o oo o o oo oo
+ oooo oooo ooo 
+oooo oooo ooooo
+ oooo oooo ooo 
+ o o oo o oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 131
+
+oo oo o o oo oo
+ oooo oooo ooo 
+oooo oooo ooooo
+ oooo oooo ooo 
+ o o oo o oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+       o  
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 132
+
+  o   o o   o  
+ ooo oooo oooo 
+ooooo oooo oooo
+ ooo oooo oooo 
+  o  oo oo  o  
+       o  
+     ooooo
+      ooo 
+     ooooo
+      o oo
+     o o  
+     ooooo
+      ooo 
+     ooooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+-----------------------
+Solution: 133
+
+  o   o o   o  
+ ooo oooo oooo 
+ooooo oooo oooo
+ ooo oooo oooo 
+  o  oo oo  o  
+       o  
+     ooooo
+      ooo 
+     ooooo
+     oo o 
+       o o
+     ooooo
+      ooo 
+     ooooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+-----------------------
+Solution: 134
+
+ o oo o o oo o 
+oooo oooo ooooo
+ oooo oooo ooo 
+oooo oooo ooooo
+ o o oo oo  o  
+       o  
+      oooo
+     oooo 
+      oooo
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 135
+
+  o    o o o o 
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+  o   o oo  o  
+     o o  
+     ooooo
+      ooo 
+     ooooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     oooo 
+      oooo
+     oooo 
+     oo o 
+-----------------------
+Solution: 136
+
+oo oo  o o o oo
+ ooo ooooo oooo
+ooooo ooo oooo 
+ ooo ooooo oooo
+oo oo o oo o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o oo
+     oooo 
+      oooo
+     oooo 
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+-----------------------
+Solution: 137
+
+oo oo  o o o o 
+ ooo ooooo oooo
+ooooo ooo oooo 
+ ooo ooooo oooo
+oo oo o oo o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+     oooo 
+      oooo
+     oooo 
+      o oo
+       o  
+      ooo 
+     ooooo
+      ooo 
+      o o 
+-----------------------
+Solution: 138
+
+  o  oo oo  o  
+ oooo oooo ooo 
+oooo oooo ooooo
+ oooo oooo ooo 
+  o   o o   o  
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     ooooo
+      ooo 
+     ooooo
+       o o
+     oo o 
+     ooooo
+      ooo 
+     ooooo
+       o  
+-----------------------
+Solution: 139
+
+  o  oo oo  o  
+ oooo oooo ooo 
+oooo oooo ooooo
+ oooo oooo ooo 
+  o   o o   o  
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     ooooo
+      ooo 
+     ooooo
+     o o  
+      o oo
+     ooooo
+      ooo 
+     ooooo
+       o  
+-----------------------
+Solution: 140
+
+  o  oo oo o o 
+ooooo oooo oooo
+ ooo oooo oooo 
+ooooo oooo oooo
+ o oo o o oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo oo
+      ooo 
+     ooooo
+      ooo 
+     oo oo
+       o  
+     oooo 
+      oooo
+     oooo 
+       o  
+-----------------------
+Solution: 141
+
+  o  oo o   o  
+ ooo ooooo ooo 
+ooooo ooo ooooo
+ ooo ooooo ooo 
+ o o o o    o  
+      o oo
+      oooo
+     oooo 
+      oooo
+      o o 
+     o o o
+     ooooo
+      ooo 
+     ooooo
+     o o o
+      o o 
+     ooooo
+      ooo 
+     ooooo
+       o o
+-----------------------
+Solution: 142
+
+ o o oo o oo oo
+oooo ooooo ooo 
+ oooo ooo ooooo
+oooo ooooo ooo 
+oo o o o  oo oo
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+      o o 
+      oooo
+     oooo 
+      oooo
+     oo o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------
+Solution: 143
+
+oo o oo o oo oo
+oooo ooooo ooo 
+ oooo ooo ooooo
+oooo ooooo ooo 
+ o o o o  oo oo
+      o o 
+      ooo 
+     ooooo
+      ooo 
+       o  
+     oo o 
+      oooo
+     oooo 
+      oooo
+      o o 
+       o  
+      ooo 
+     ooooo
+      ooo 
+       o  
+-----------------------

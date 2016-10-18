@@ -22,7 +22,7 @@ public class MakeCubes {
     public static void main(String [] args)
 	{
             List<Side> cube = new ArrayList<>();
-            try (BufferedReader br = new BufferedReader(new FileReader(currDirectory + "/src/main/resources/blue_cube_not.txt")))
+            try (BufferedReader br = new BufferedReader(new FileReader(currDirectory + "/src/main/resources/blue_cube.txt")))
 		{
                     String curLine;
                     int i = 0;
